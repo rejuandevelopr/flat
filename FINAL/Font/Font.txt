@@ -1,0 +1,11 @@
+font name : Roundo Font Family
+
+www.1001fonts.com
+
+https://www.1001fonts.com/roundo-font.html
+
+1.extract the Zip File	
+2.copy files : Roundo
+3.paste to : C/Windows/Fonts
+
+Enjoy it :) 
